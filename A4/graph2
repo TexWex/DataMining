@@ -6,7 +6,7 @@ edge [fontname="helvetica"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
 2 [label="x[2] <= 0.111\ngini = 0.042\nsamples = 234\nvalue = [229, 5]"] ;
 1 -> 2 ;
-3 [label="x[9] <= 31.755\ngini = 0.01\nsamples = 208\nvalue = [207, 1]"] ;
+3 [label="x[27] <= 10824.284\ngini = 0.01\nsamples = 208\nvalue = [207, 1]"] ;
 2 -> 3 ;
 4 [label="gini = 0.0\nsamples = 188\nvalue = [188, 0]"] ;
 3 -> 4 ;
